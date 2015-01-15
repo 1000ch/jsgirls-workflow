@@ -14,9 +14,10 @@ Download [jsgirls.alfredworkflow](https://github.com/1000ch/jsgirls-workflow/blo
 
 Type keyword after `jsgirls`!
 
+![](https://raw.github.com/1000ch/jsgirls-workflow/master/screenshot/jsgirls.png)
+
 ## License
 
-JSGirls icons are from [tomo-e/js-girls](http://github.com/tomo-e/js-girls).
+JS Girls icons are from [tomo-e/js-girls](http://github.com/tomo-e/js-girls).
 
-Copyright @1000ch
 Licensed under the GPL License version 3.
