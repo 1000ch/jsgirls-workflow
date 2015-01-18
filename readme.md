@@ -4,7 +4,7 @@
 
 ### Premise
 
-To use Alfred Workflows, it requires [Powerpack](http://www.alfredapp.com/powerpack/).
+To use [Alfred](http://www.alfredapp.com) Workflows, it requires [Powerpack](http://www.alfredapp.com/powerpack/).
 
 ### Install
 
